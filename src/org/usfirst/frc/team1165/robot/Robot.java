@@ -9,8 +9,6 @@ import edu.wpi.first.wpilibj.Timer;
 
 /**
  * This is a demo program showing how to use Mecanum control with the RobotDrive class.
- * 
- * Test 2.
  */
 public class Robot extends SampleRobot {
 	
